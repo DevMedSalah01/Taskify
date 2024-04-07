@@ -34,7 +34,6 @@ Taskify is a robust and user-friendly task management web application built with
 We welcome your feedback and suggestions to improve Taskify. If you encounter any issues or have ideas for new features, please don't hesitate to reach out to us or open a GitHub issue.
 
 Happy task managing!
-
 ---
 <!-- # CodeIgniter 4 Application Starter
 
