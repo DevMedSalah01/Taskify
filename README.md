@@ -27,7 +27,7 @@ Taskify is a robust and user-friendly task management web application built with
 - **CodeIgniter**: PHP framework for building web applications.
 - **MySQL**: Relational database management system for storing task data.
 - **HTML, CSS, JavaScript**: Frontend technologies for designing the user interface and interactivity.
-- **Bootstrap**: Frontend framework for responsive and mobile-first web development.
+- **Bulma**: Frontend framework for responsive and mobile-first web development.
 
 ## Feedback and Support
 
